@@ -185,7 +185,8 @@ body {
   }
 
   .countdown__img {
-    margin: -80px 0 0 80px;
+    mmargin: -60px 0 0 90px;
+    width: 70%;
   }
 
   /* general styling */
